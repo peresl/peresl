@@ -1,7 +1,7 @@
 ### Olá eu sou Jardson Silva 🖐🏼
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardson-l%C3%BAcio-peres-da-silva/)
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jardsonlucio01@gmail.com.br)
+[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardsonlucio01@gmail.com.br)
 
 ![Jardson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peresl&show_icons=true&theme=github_dark)
 
